@@ -1,0 +1,9 @@
+# Ignore a specific folder
+Challenge_Data/
+
+# Ignore all files with a specific extension
+*.txt
+*.json
+
+# Ignore all files inside a folder
+Challenge_Data/**
