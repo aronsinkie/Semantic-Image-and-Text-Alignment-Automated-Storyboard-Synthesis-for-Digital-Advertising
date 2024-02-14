@@ -6,4 +6,4 @@ Challenge_Data/
 *.json
 
 # Ignore all files inside a folder
-Challenge_Data/**
+Data/**
